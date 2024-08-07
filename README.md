@@ -5,3 +5,6 @@
 LINE公式アカウント(お知らせなど)：https://line.me/R/ti/p/@025lbtsh
 
 他SNS：https://lit.link/archjaguar13
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=archjaguar13&theme=github)
