@@ -12,7 +12,10 @@ LINE公式アカウント(お知らせなど)：https://line.me/R/ti/p/@025lbtsh
 
 # ステータス
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pocketpoem24493&theme=github)
-<br/>
+<br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pocketpoem24493&theme=github)
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,python&perline=2"/>
+<br>
+
+
+# 完理言語
+<img src="https://skillicons.dev/icons?i=html,css,js,python&perline=2">
