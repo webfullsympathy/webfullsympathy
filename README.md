@@ -4,9 +4,9 @@
 
 【SNS】
 
-LINE公式アカウント(お知らせなど)：https://line.me/R/ti/p/@025lbtsh
+[LINE公式アカウント(お知らせなど)](https://line.me/R/ti/p/@025lbtsh)
 
-他SNS：https://lit.link/archjaguar13
+[他SNS](https://lit.link/archjaguar13)
 
 
 
