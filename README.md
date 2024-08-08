@@ -11,9 +11,9 @@
 
 
 # ステータス
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pocketpoem24493&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=webfullsympathy&theme=github)
 <br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pocketpoem24493&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=webfullsympathy&theme=github)
 <br>
 
 
