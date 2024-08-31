@@ -2,13 +2,9 @@
 
 どうもこんにちは。ウェブ完理です！フォローよろしくね！
 
-【SNS】
-
-[LINE公式アカウント(お知らせなど)](https://line.me/R/ti/p/@025lbtsh)
-
-[他SNS](https://lit.link/webfullsympathy)
-
-
+[ホームページ](https://webfullsympathy.github.io)
+[リンク集](https://lit.link)
+[メール](mailto:webfullsympathy@ymail.ne.jp)
 
 # 実績/ステータス
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=webfullsympathy&theme=github)
