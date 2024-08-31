@@ -3,7 +3,9 @@
 どうもこんにちは。ウェブ完理です！フォローよろしくね！
 
 [ホームページ](https://webfullsympathy.github.io)
-[リンク集](https://lit.link)
+
+[リンク集](https://lit.link/webfullsympathy)
+
 [メール](mailto:webfullsympathy@ymail.ne.jp)
 
 # 実績/ステータス
