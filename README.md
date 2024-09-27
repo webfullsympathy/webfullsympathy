@@ -1,12 +1,18 @@
-# 概要
+# 一言
 
 どうもこんにちは。ウェブ完理です！フォローよろしくね！
 
-[ホームページ](https://webfullsympathy.github.io)
+# リンク
 
-[リンク集](https://lit.link/webfullsympathy)
+<a href="https://webfullsympathy.github.io/"><img src="https://raw.githubusercontent.com/webfullsympathy/webfullsympathy/refs/heads/main/maruprofile.png" width="10%"></a>
 
-[メール](mailto:webfullsympathy@ymail.ne.jp)
+<a href="https://x.com/webfullsympathy"><img src="https://raw.githubusercontent.com/webfullsympathy/webfullsympathy/refs/heads/main/x.png" width="10%"></a>
+
+<a href="https://youtube.com/@webfullsympathy"><img src="https://raw.githubusercontent.com/webfullsympathy/webfullsympathy/refs/heads/main/youtube.png" width="10%"></a>
+
+<a href="https://lit.link/webfullsympathy"><img src="https://raw.githubusercontent.com/webfullsympathy/webfullsympathy/refs/heads/main/clip.png" width="10%"></a>
+
+<a href="mailto:webfullsympathy@ymail.ne.jp"><img src="https://raw.githubusercontent.com/webfullsympathy/webfullsympathy/refs/heads/main/mail.png" width="10%"></a>
 
 # 実績/ステータス
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=webfullsympathy&theme=github)
