@@ -1,3 +1,5 @@
+[English](https://github.com/webfullsympathy/webfullsympathy/blob/main/English_README.md)
+
 # 一言
 
 どうもこんにちは。ウェブ完理です！フォローよろしくね！
