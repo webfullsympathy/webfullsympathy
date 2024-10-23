@@ -17,10 +17,7 @@
 <a href="mailto:webfullsympathy@ymail.ne.jp"><img src="https://raw.githubusercontent.com/webfullsympathy/webfullsympathy/refs/heads/main/mail.png" width="10%"></a>
 
 # 実績/ステータス
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=webfullsympathy&theme=github)
-<br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=webfullsympathy&theme=github)
-<br>
+![Metrics](/github-metrics.svg)
 
 
 # このチャンネルで言う「完理」とは
