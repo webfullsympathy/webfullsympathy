@@ -5,7 +5,7 @@
 4. Storeが開きますが右上の方の∨にカーソルを当てて「.visiapp」をロードをクリック
 5. .visiappファイルを開くとインストール完了
 
-お疲れさまでした。[共有ツールのVisiOS向けアプリ](https://drive.google.com/file/d/1cvxKbwBtlVXBM7vIRLsMlVO4ywFzf7b5/view)もみてみてね。
+お疲れさまでした。[共有ツールのVisiOS向けアプリ](https://github.com/webfullsympathy/share-tool?tab=readme-ov-file#%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89)もみてみてね。
 
 
 # 追記
