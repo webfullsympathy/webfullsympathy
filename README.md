@@ -4,6 +4,8 @@
 
 どうもこんにちは。ウェブ完理です！フォローよろしくね！
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1138294208617263236)](https://discord.com/users/1138294208617263236)
+
 # リンク
 
 <a href="https://webfullsympathy.github.io/"><img src="https://raw.githubusercontent.com/webfullsympathy/webfullsympathy/refs/heads/main/maruprofile.png" width="10%"></a>
